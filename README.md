@@ -1,8 +1,8 @@
-# 🌍 Multi-Cloud Kubernetes Deployment 🚀
+# 🌍 Multi-Cloud Kubernetes Deployment 
 
 A fully automated multi-cloud Kubernetes setup using Terraform, deploying clusters on AWS (EKS), Azure (AKS), and GCP (GKE) with CI/CD, monitoring, and security best practices.
 
-### 📌 Features
+###  Features
 
 ✅ Multi-Cloud Deployment – AWS, Azure, GCP Kubernetes clusters managed with Terraform  
 ✅ Infrastructure as Code (IaC) – Using Terraform for reproducible and scalable cloud setups  
